@@ -1,0 +1,7 @@
+__title__ = 'mlb_forecasting'
+__description__ = 'MLB Forecasting'
+__url__ = 'https://github.com/guangmeiye/mlb_forecasting'
+__version__ = '2021.06.26'
+__author__ = 'Guangmei Ye'
+__author_email__ = 'freyaye858@gmail.com'
+__copyright__ = 'Copyright 2021 Guangmei Ye'
